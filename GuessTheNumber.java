@@ -1,3 +1,8 @@
+//Task 1 : Number Guessing Game
+/*Develop a game where player has to guess the 
+number. If guessed number is right, player wins 
+else, losses.*/
+
 import java.util.Scanner;
 import java.util.Random;
 
