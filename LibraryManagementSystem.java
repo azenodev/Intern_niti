@@ -1,3 +1,9 @@
+//Task 2 : Library Management System
+/*Develop a management system that update 
+records, add books and monitor. It should also 
+have basic features like creating and delete 
+records.*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
