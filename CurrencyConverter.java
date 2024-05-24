@@ -1,3 +1,7 @@
+//Task 3 : Currency Converter
+/*Create a currency converter app that
+convertsbetween different currencies.*/
+
 import java.util.Scanner;
 
 public class CurrencyConverter {
